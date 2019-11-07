@@ -1,9 +1,12 @@
 # Table of contents
 
-* [knowledge](README.md)
+* [Introduction](README.md)
+
+## About Me
+
+* [Contact information](about-me/contact-information.md)
 
 ## group
 
-* [page title 2](group/page-title-2.md)
 * [page title](group/page-slug.md)
 
