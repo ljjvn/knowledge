@@ -10,5 +10,5 @@
 
 ## Health
 
-* [page title](health/page-slug.md)
+* [Health and fitness](health/page-slug.md)
 
