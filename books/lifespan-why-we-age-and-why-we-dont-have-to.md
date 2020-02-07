@@ -10,9 +10,9 @@ To write
 
 ## My highlights
 
-* As a species, we are living much longer than ever. But not much better. Not at all. Over the past century we have gained additional years, but not additional life—not life worth living anyway. LOCATION: 162
-* Science has since demonstrated that the positive health effects attainable from an antioxidant-rich diet are more likely caused by stimulating the body’s natural defenses against aging, including boosting the production of the body’s enzymes that eliminate free radicals, not as a result of the antioxidant activity itself. LOCATION: 447
-* Cloning gives us the answer as to whether or not mutations cause aging. If old cells had indeed lost crucial genetic information and this was the cause of aging, we shouldn’t be able to clone new animals from older individuals. Clones would be born old. LOCATION: 463
+* As a species, we are living much longer than ever. But not much better. Not at all. Over the past century we have gained additional years, but not additional life—not life worth living anyway. LOCATION: 162 
+* Science has since demonstrated that the positive health effects attainable from an antioxidant-rich diet are more likely caused by stimulating the body’s natural defenses against aging, including boosting the production of the body’s enzymes that eliminate free radicals, not as a result of the antioxidant activity itself. LOCATION: 447 
+* Cloning gives us the answer as to whether or not mutations cause aging. If old cells had indeed lost crucial genetic information and this was the cause of aging, we shouldn’t be able to clone new animals from older individuals. Clones would be born old. LOCATION: 463 
 * Because of the fact that nuclear transfer works in cloning, we can say with a high degree of confidence that aging isn’t caused by mutations in nuclear DNA. LOCATION: 471
 
 * Yet I believe that such an answer exists—a cause of aging that exists upstream of all the hallmarks. Yes, a singular reason why we age. Aging, quite simply, is a loss of information. LOCATION: 520
@@ -163,15 +163,15 @@ To write
 
 * We know from our experiments that the biological information correcting device requires enzymes called ten-eleven translocation enzymes, or TETs, which clip off methyl tags from DNA, the same chemical tags that mark the passage of the Horvath aging clock. This is no coincidence, and points to the DNA methylation clock as not just an indicator of age but a controller of it. LOCATION: 2766
 
-  Yet in the United States alone, with one of the better health care systems in the world, about 5 percent of cancer patients, or 86,500 people, are misdiagnosed every year. LOCATION: 2834
+* Yet in the United States alone, with one of the better health care systems in the world, about 5 percent of cancer patients, or 86,500 people, are misdiagnosed every year. LOCATION: 2834
 
-  Today, I can read an entire human genome of 25,000 genes in a few days for less than a hundred dollars on a candy bar–sized DNA sequencer called a MinION that I plug into my laptop. And that’s for a fairly complete readout of a human genome, plus the DNA methyl marks that tell you your biological age. LOCATION: 2895
+* Today, I can read an entire human genome of 25,000 genes in a few days for less than a hundred dollars on a candy bar–sized DNA sequencer called a MinION that I plug into my laptop. And that’s for a fairly complete readout of a human genome, plus the DNA methyl marks that tell you your biological age. LOCATION: 2895
 
 * Males don’t just differ from females at a few sites in the genome; they have a whole other chromosome. LOCATION: 2919
 
 * Treatments that work through insulin or mTOR signaling typically favor females, whereas chemical therapies typically favor males, and no one really knows why. LOCATION: 2924
 
-  Indeed, we know more about the health of our cars than we know about our own health. That’s farcical. And it’s about to change. LOCATION: 3007
+* Indeed, we know more about the health of our cars than we know about our own health. That’s farcical. And it’s about to change. LOCATION: 3007
 
 * Barriers fall. And they will fall again. In another generation, we’ll be well accustomed to seeing movie stars in their 60s and 70s riding motorcycles at high speeds, jumping from great heights, and delivering kung fu kicks high into the air. Because 60 will be the new 40. Then 70 will be the new 40. And on it will go. LOCATION: 3324
 
