@@ -14,5 +14,6 @@
 
 ## Books
 
+* [The Checklist Manifesto: How to Get Things Right](books/the-checklist-manifesto-how-to-get-things-right.md)
 * [Lifespan: Why We Age—and Why We Don't Have To](books/lifespan-why-we-age-and-why-we-dont-have-to.md)
 
