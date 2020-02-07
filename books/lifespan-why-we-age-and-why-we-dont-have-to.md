@@ -2,9 +2,14 @@
 
 ## About this book
 
-Lifespan: Why We Age—and Why We Don't Have To David Sinclair and Matthew D. LaPlante
+**Title:** _Lifespan: Why We Age—and Why We Don't Have To_  
+**Author:** David A. Sinclair
 
-## Key lessons
+Goodreads link: [https://www.goodreads.com/book/show/43827144-lifespan](https://www.goodreads.com/book/show/43827144-lifespan) 
+
+Amazon link:
+
+## Key lessons and takeaways
 
 To write
 
