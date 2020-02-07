@@ -76,7 +76,7 @@ To write
 
 * But fasting—allowing our bodies to exist in a state of want, more often than most of us allow in our privileged world of plenty—is unquestionably good for our health and longevity. LOCATION: 1538
 
-  “I accustomed myself to the habit of never fully satisfying my appetite, either with eating or drinking,” Cornaro wrote in his First Discourse on the Temperate Life, “always leaving the table well able to take more.” LOCATION: 1545
+* “I accustomed myself to the habit of never fully satisfying my appetite, either with eating or drinking,” Cornaro wrote in his First Discourse on the Temperate Life, “always leaving the table well able to take more.” LOCATION: 1545
 
 * In animal studies, the key to engaging the sirtuin program appears to be keeping things on the razor’s edge through calorie restriction—just enough food to function in healthy ways and no more. LOCATION: 1565
 
@@ -98,7 +98,7 @@ To write
 
 * In other words: exercise turns on the genes to make us young again at a cellular level. LOCATION: 1783
 
-  When you give rats a high-calorie diet and allow them to burn off the energy, lifespan extension is minimal. Same for a CR diet. If you make food filling but not as calorific, some of the health benefits are lost. Being hungry is necessary for CR to work because hunger helps turn on genes in the brain that release longevity hormones, at least according to a recent study by Dongsheng Cai at the Albert Einstein College of Medicine. LOCATION: 1785
+* When you give rats a high-calorie diet and allow them to burn off the energy, lifespan extension is minimal. Same for a CR diet. If you make food filling but not as calorific, some of the health benefits are lost. Being hungry is necessary for CR to work because hunger helps turn on genes in the brain that release longevity hormones, at least according to a recent study by Dongsheng Cai at the Albert Einstein College of Medicine. LOCATION: 1785
 
 * exposing your body to less-than-comfortable temperatures is another very effective way to turn on your longevity genes. LOCATION: 1803
 
@@ -126,7 +126,7 @@ To write
 
 * the resveratrol-fed yeast were slightly smaller and grew slightly more slowly than untreated yeast, getting to an average of thirty-four divisions before dying, as though they were calorie restricted. The human equivalent would be an extra 50 years of life. We saw increases in maximum lifespan, too—on resveratrol, they kept going past 35. We tested resveratrol in yeast cells with no SIR2 gene, and there was no effect. We tested it on calorie-restricted yeast, and saw no further increase in lifespan, suggesting that the same pathway was being activated; this was how calorie restriction was working. LOCATION: 2173
 
-  That’s because Shin-ichiro Imai and Lenny Guarente showed that NAD acts as fuel for sirtuins. Without sufficient NAD, the sirtuins don’t work efficiently: they can’t remove the acetyl groups from histones, they can’t silence genes, and they can’t extend lifespan. And we sure wouldn’t have seen the lifespan-extending impact of the activator resveratrol. LOCATION: 2239
+* That’s because Shin-ichiro Imai and Lenny Guarente showed that NAD acts as fuel for sirtuins. Without sufficient NAD, the sirtuins don’t work efficiently: they can’t remove the acetyl groups from histones, they can’t silence genes, and they can’t extend lifespan. And we sure wouldn’t have seen the lifespan-extending impact of the activator resveratrol. LOCATION: 2239
 
 * Human studies with NAD boosters are ongoing. So far, there has been no toxicity, not even a hint of it. Studies to test its effectiveness in muscle and neurological diseases are in progress or about to begin, followed by super-NAD-boosting molecules that are a couple of years behind them in development. LOCATION: 2277
 
@@ -146,11 +146,11 @@ To write
 
 * Cellular senescence is a consequence of our inherited primordial survival circuits, which evolved to stop cell division and reproduction when DNA breaks were detected. LOCATION: 2490
 
-  If zombie cells are so bad for our health, why doesn’t our body just kill them off? Why are senescent cells allowed to cause trouble for decades? Back in the 1950s, the evolutionary biologist George Williams was already on the case. His work, built upon by Judith Campisi from the Buck Institute for Research on Aging in California, proposes that we evolved senescence as a rather clever trick to prevent cancer when we are in our 30s and 40s. Senescent cells, after all, don’t divide, which means that cells with mutations aren’t able to spread and form tumors. But if senescence evolved to prevent cancer, why would it eventually promote cancer in adjacent tissue, not to mention a host of other aging-related symptoms? This is where “antagonistic pleiotropy” comes into play: the idea that a survival mechanism that is good for us when we are young is kept through evolution because this far outweighs any problems it might cause when we get older. LOCATION: 2493
+* If zombie cells are so bad for our health, why doesn’t our body just kill them off? Why are senescent cells allowed to cause trouble for decades? Back in the 1950s, the evolutionary biologist George Williams was already on the case. His work, built upon by Judith Campisi from the Buck Institute for Research on Aging in California, proposes that we evolved senescence as a rather clever trick to prevent cancer when we are in our 30s and 40s. Senescent cells, after all, don’t divide, which means that cells with mutations aren’t able to spread and form tumors. But if senescence evolved to prevent cancer, why would it eventually promote cancer in adjacent tissue, not to mention a host of other aging-related symptoms? This is where “antagonistic pleiotropy” comes into play: the idea that a survival mechanism that is good for us when we are young is kept through evolution because this far outweighs any problems it might cause when we get older. LOCATION: 2493
 
 * We’re plagued by senescent cells, which might as well be radioactive waste. If you put a tiny dab of these cells under a young mouse’s skin, it won’t be long before inflammation spreads and the entire mouse is filled with zombie cells that cause premature signs of aging. LOCATION: 2512
 
-  He needed only a quick course of two senolytic molecules—quercetin, which is found in capers, kale, and red onions, and a drug called dasatinib, which is a standard chemotherapy treatment for leukemia—to eliminate the senescent cells in lab mice and extend their lifespan by 36 percent. LOCATION: 2517
+* He needed only a quick course of two senolytic molecules—quercetin, which is found in capers, kale, and red onions, and a drug called dasatinib, which is a standard chemotherapy treatment for leukemia—to eliminate the senescent cells in lab mice and extend their lifespan by 36 percent. LOCATION: 2517
 
 * The first human trials of senolytics were started in 2018 to treat osteoarthritis and glaucoma, conditions in which senescent cells can accumulate. It will be a few more years before we know enough about the effects and safety of these drugs to provide them to everyone, but if they work, the potential is vast. LOCATION: 2524
 
@@ -158,12 +158,16 @@ To write
 
 * Together, all the DNA in our body, if laid end to end, would stretch twice the diameter of the solar system. LOCATION: 2600
 
-* In Shannon’s drawing, there are three different components that have analogs in biology: • The “source” of the information is the egg and sperm, from your parents. • The “transmitter” is the epigenome, transmitting analog information through space and time. • The “receiver” is your body in the future. LOCATION: 2636
-
+* In Shannon’s drawing, there are three different components that have analogs in biology:
+  * The “source” of the information is the egg and sperm, from your parents.
+  * The “transmitter” is the epigenome, transmitting analog information through space and time.
+  * The “receiver” is your body in the future. LOCATION: 2636
 * So even if a lot of the epigenetic information is lost in old age, obscured by epigenetic noise, there must be information that tells the cell how to reset. This fundamental information, laid down early in life, is able to tell the body how to be young again—the equivalent of a backup of the original data. LOCATION: 2643
 
-* To end aging as we know it, we need to find three more things that Shannon knew were essential for a signal to be restored even if it is obscured by noise: • An “observer” who records the original data • The original “correction data” • And a “correcting device” to restore the original signal LOCATION: 2650
-
+* To end aging as we know it, we need to find three more things that Shannon knew were essential for a signal to be restored even if it is obscured by noise:
+  * An “observer” who records the original data
+  * The original “correction data”
+  * And a “correcting device” to restore the original signal LOCATION: 2650
 * EPIGENETIC REPROGRAMMING REGROWS OPTIC NERVES AND RESTORES EYESIGHT IN OLD MICE. The Information Theory of Aging predicts that it is a loss of epigenetic rather than genetic information in the form of mutations. By infecting mice with reprogramming genes called Oct4, Sox2, and Klf4, the age of cells is reversed by the TET enzymes, which remove just the right methyl tags on DNA, reversing the clock of aging and allowing the cells to survive and grow like a newborn’s. How the enzymes know which tags are the youthful ones is a mystery. Solving that mystery would be the equivalent of finding Claude Shannon’s “observer,” the person who holds the the original data. LOCATION: 2751
 
 * We know from our experiments that the biological information correcting device requires enzymes called ten-eleven translocation enzymes, or TETs, which clip off methyl tags from DNA, the same chemical tags that mark the passage of the Horvath aging clock. This is no coincidence, and points to the DNA methylation clock as not just an indicator of age but a controller of it. LOCATION: 2766
