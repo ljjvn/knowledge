@@ -12,3 +12,7 @@
 
 * [Health and fitness](health/page-slug.md)
 
+## Books
+
+* [Lifespan: Why We Age—and Why We Don't Have To](books/lifespan-why-we-age-and-why-we-dont-have-to.md)
+
