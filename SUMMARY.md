@@ -8,9 +8,10 @@
 * [Introduction](about-me/untitled.md)
 * [Sharing](about-me/untitled-1.md)
 
-## Self Governance
+## Self
 
-* [Laws and principles](self-governance/laws-and-principles.md)
+* [Laws and principles](self/laws-and-principles.md)
+* [Writing](self/writing.md)
 
 ## Health
 
